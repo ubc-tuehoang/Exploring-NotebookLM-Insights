@@ -23,11 +23,11 @@ My first **NotebookLM** is powered by an advanced **Google’s Gemini multimodal
 |--------|-------------|
 |  **Document-Grounded Chat** | Ask questions about your docs, notes, textbooks, research papers, or lecture slides. |
 |  **Smart Summaries** | Get concise chapter summaries, key takeaways, or concept explanations. |
-|  **Audio Overviews** | Turn any document into a podcast-style summary with voice interactivity--NICE FEATURE!!! |
+|  **Audio Overviews** | Turn any document into a _podcast-style summary with interactive-handup-for-question ✋_ with voice-- _I really really like this_!!! |
 |  **Mind Maps** | Visualize complex topics to deepen understanding and improve recall. |
 |  **Citation-Aware** | Every answer is linked to its source—great for academic integrity. |
 |  **Collaboration** | Share Notebooks with peers or students for group study or teaching. |
-|  **Multilingual Support** | Output in 35+ languages for accessibility and global classrooms. |
+|  **Multilingual Support** | Output in 35+ languages for accessibility and global classrooms - AWESOME! |
 
 ---
 
@@ -35,7 +35,7 @@ My first **NotebookLM** is powered by an advanced **Google’s Gemini multimodal
 
 ### Analyzing My Profile:
 
-- CliftonStrengths Analysis About Me: Tue Hoang, Eng. 
+- CliftonStrengths: Insights About Me: _Tuệ Hoàng, Eng._
 
 _Podcast-Style Summary: https://notebooklm.google.com/notebook/d193eb02-33a4-4f8d-81a0-9a13336ebefa/audio/__
 
