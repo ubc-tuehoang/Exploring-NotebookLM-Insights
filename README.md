@@ -64,8 +64,8 @@ _Source: https://edu.google.co.id/intl/ALL_us/our-values/privacy-security/freque
 
 ## Additional Resources
 
-- [NotebookLM Teacher Guide (PDF)](https://edu.google.com)
-- [Google Workspace for Education Setup](https://edu.google.com/workspace-for-education/editions/education-fundamentals)
+- [NotebookLM Edu Guide](https://edu.google.com)
+- [Google Workspace for Education](https://edu.google.com/workspace-for-education/editions/education-fundamentals)
 
 ---
 
