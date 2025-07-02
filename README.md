@@ -60,16 +60,7 @@ _Podcast-Style Summary: https://notebooklm.google.com/notebook/d193eb02-33a4-4f8
 
 _Source: https://edu.google.co.id/intl/ALL_us/our-values/privacy-security/frequently-asked-questions/_
 
----
-
-NotebookLM is now available on mobile **Android** and **iOS**. 
-
-- Like this **offline playback**  
-- Voice **interactivity questioning** during audio summaries
-- "Share to NotebookLM" from other apps
-
 ---------------
-
 
 ## Additional Resources
 
