@@ -11,27 +11,27 @@
 
 An AI-powered learning companion with the objective to transform research, study, and comprehension by enabling students and educators to interact directly with their documents through summaries, Q&A, mind maps, and AI-generated audio overviews.
 
-## 🎓 What is NotebookLM?
+## What is NotebookLM?
 
 My first **NotebookLM** is powered by an advanced **Google’s Gemini multimodal large language model** and generates responses strictly based on the content (PDF, website, text, video) you upload. Additionally, I am using a **Pixel 9 Pro** smartphone, equipped with Google’s Tensor G4 chip and integrated with Google One AI, to enhance performance and AI capabilities.
 
 ---
 
-## ✨ Discovering Key Features 
+## Discovering Key Features 
 
 | Feature | Description |
 |--------|-------------|
-| 📚 **Document-Grounded Chat** | Ask questions about your docs, notes, textbooks, research papers, or lecture slides. |
-| 🧠 **Smart Summaries** | Get concise chapter summaries, key takeaways, or concept explanations. |
-| 🎙️ **Audio Overviews** | Turn any document into a podcast-style summary with voice interactivity--NICE FEATURE!!! |
-| 🧭 **Mind Maps** | Visualize complex topics to deepen understanding and improve recall. |
-| 📄 **Citation-Aware** | Every answer is linked to its source—great for academic integrity. |
-| 👥 **Collaboration** | Share Notebooks with peers or students for group study or teaching. |
-| 🌍 **Multilingual Support** | Output in 35+ languages for accessibility and global classrooms. |
+|  **Document-Grounded Chat** | Ask questions about your docs, notes, textbooks, research papers, or lecture slides. |
+|  **Smart Summaries** | Get concise chapter summaries, key takeaways, or concept explanations. |
+|  **Audio Overviews** | Turn any document into a podcast-style summary with voice interactivity--NICE FEATURE!!! |
+|  **Mind Maps** | Visualize complex topics to deepen understanding and improve recall. |
+|  **Citation-Aware** | Every answer is linked to its source—great for academic integrity. |
+|  **Collaboration** | Share Notebooks with peers or students for group study or teaching. |
+|  **Multilingual Support** | Output in 35+ languages for accessibility and global classrooms. |
 
 ---
 
-## 💡 Example Use Cases
+##  Example Use Cases
 
 ### Analyzing My Profile:
 
