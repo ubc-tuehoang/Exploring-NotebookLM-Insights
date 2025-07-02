@@ -1,4 +1,4 @@
-# Exploring NotebookLM Insights
+# Exploring NotebookLM 
 
 - Dare to Dream
 - Inspire Bold Leadership
