@@ -37,7 +37,7 @@ My first **NotebookLM** is powered by an advanced **Google’s Gemini multimodal
 
 - CliftonStrengths: Insights About Me: _Tuệ Hoàng, Eng._
 
-_Podcast-Style Summary: https://notebooklm.google.com/notebook/d193eb02-33a4-4f8d-81a0-9a13336ebefa/audio/__
+_Podcast-Style Summary: https://notebooklm.google.com/notebook/d193eb02-33a4-4f8d-81a0-9a13336ebefa/audio/_
 
 ![alt text](image-1.png)
 
