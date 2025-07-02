@@ -13,7 +13,7 @@ An AI-powered learning companion with the objective to transform research, study
 
 ## What is NotebookLM?
 
-My first **NotebookLM** is powered by an advanced **Google’s Gemini multimodal large language model** and generates responses strictly based on the content (PDF, website, text, video) you upload. Additionally, I am using a **Pixel 9 Pro** smartphone, equipped with Google’s Tensor G4 chip and integrated with Google One AI, to enhance performance and AI capabilities.
+My first **NotebookLM** is powered by an advanced **Google’s Gemini multimodal large language model** and generates responses strictly based on the content (PDF, website, text, video) you upload. Additionally, I am using a **Pixel 9 Pro** smartphone with Google’s Tensor G4 chip and integrated with Google One AI, to enhance performance and AI capabilities.
 
 ---
 
