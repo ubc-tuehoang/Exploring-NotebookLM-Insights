@@ -62,10 +62,10 @@ _Source: https://edu.google.co.id/intl/ALL_us/our-values/privacy-security/freque
 
 ---
 
-NotebookLM is now available on **Android** and **iOS**. I really really like these features:
+NotebookLM is now available on mobile **Android** and **iOS**. 
 
-- Offline playback 
-- Voice interactivity during audio summaries
+- Like this **offline playback**  
+- Voice **interactivity questioning** during audio summaries
 - "Share to NotebookLM" from other apps
 
 ---------------
